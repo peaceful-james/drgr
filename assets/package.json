@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "dragdoll": "^0.4.0",
+    "eventti": "^4.0.0",
+    "mezr": "^1.1.0",
+    "tikki": "^3.0.1"
+  }
+}
